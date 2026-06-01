@@ -184,7 +184,7 @@ export default function Landing2() {
           </div>
         </div>
         <p className="pb-6 text-center text-xs text-slate-400">
-          <Link href="/" className="hover:text-sky-600">← Compare all three layouts</Link>
+          <Link href="/compare" className="hover:text-sky-600">← Compare all three layouts</Link>
         </p>
       </footer>
     </div>

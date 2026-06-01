@@ -181,7 +181,7 @@ export default function Landing3() {
           </div>
         </div>
         <p className="pb-6 text-center font-sans text-[10px] uppercase tracking-[0.2em] text-white/30">
-          <Link href="/" className="hover:text-white/60">← Compare all three layouts</Link>
+          <Link href="/compare" className="hover:text-white/60">← Compare all three layouts</Link>
         </p>
       </footer>
     </div>
